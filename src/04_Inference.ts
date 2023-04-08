@@ -7,11 +7,11 @@
 // 3) 반환 값이 있는 함수
 
 // 1) 초기화된 변수 `num`
-let num = 12
+// let num = 12
 
 // 2) 기본값이 지정된 매개 변수 `b` + 3) 반환 값이 확실한 함수 `add`
-function add(a: number, b = 2) {
-  return a + b
-}
+// function add(a: number, b = 2) {
+//   return a + b
+// }
 
 // 타입 추론을 사용해서 최소한의 타입만 적는다. 
